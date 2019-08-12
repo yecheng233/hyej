@@ -5,7 +5,7 @@ Created on Fri Jul 19 17:32:25 2019
 @author: ASUS
 """
 import sys
-sys.path.append(r"C:\Users\ASUS\Desktop\航运e家\hyej_codestation")
+sys.path.append(r"F:\航运e家\hyej")
 import hyej_db_config
 import pandas as pd
 import sqlalchemy

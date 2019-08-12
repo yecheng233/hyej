@@ -1,6 +1,6 @@
 # 从文件夹中导入写好的配置文件，这样即便同步代码也不要紧
 import sys
-sys.path.append(r"C:\Users\ASUS\Desktop\航运e家\hyej_codestation")
+sys.path.append(r"F:\config")
 import hyej_db_config
 import sql_doc
 

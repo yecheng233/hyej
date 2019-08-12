@@ -1,5 +1,5 @@
 @echo off 
 
-cd  C:\Users\ASUS\Desktop\航运e家\hyej_codestation
+cd  F:\航运e家\hyej
 
 start python get_data_from_wechat.py

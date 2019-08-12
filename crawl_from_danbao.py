@@ -5,7 +5,7 @@ Created on Tue Jul 30 17:18:14 2019
 """
 
 import sys
-sys.path.append(r"C:\Users\ASUS\Desktop\航运e家\hyej_codestation")
+sys.path.append(r"F:\航运e家\hyej")
 import hyej_db_config
 
 import pymysql

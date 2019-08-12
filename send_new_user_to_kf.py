@@ -4,7 +4,7 @@ Created on Mon Jun 24 10:05:26 2019
 @author: yecheng
 """
 import sys
-sys.path.append(r"C:\Users\ASUS\Desktop\航运e家\hyej_codestation")
+sys.path.append(r"F:\config")
 import hyej_db_config
 import sql_doc
 import datetime
